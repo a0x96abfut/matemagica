@@ -13,3 +13,10 @@ clear
 # veja os conteudos das operacoes, simplismente digite o nome da variavel
 laVarivel
 
+# constantes built in
+pi
+abs (absoluto valor)
+eig (eigenvalues)
+
+# controlar precisao de output
+format {long/short/...}
