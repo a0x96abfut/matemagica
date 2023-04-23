@@ -4,6 +4,12 @@ meanAa=(a+A)/2
 # salvar variaveis de ambiente (runtime) para um MAT-file
 save bifut.mat
 
+# limpeza de tela (~~~atencao LINUX)
+clc
+
 # remover todas variaveis (~~~atencao usuarios de Kerneis LINUX, comando gatilho, nao confunda com clear screen!)
 clear
+
+# veja os conteudos das operacoes, simplismente digite o nome da variavel
+laVarivel
 
